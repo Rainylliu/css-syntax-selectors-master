@@ -1,0 +1,19 @@
+body {
+    text-emphasis: filled;
+}
+
+h1 {
+    background: #faf748;
+}
+
+.quote {
+    color: orange;
+}
+.quote.narrator {
+    outline-style: dashed;
+    outline-color: aqua;
+}
+#intro p {
+    color: blue;
+    transform: rotate(20deg);
+}
